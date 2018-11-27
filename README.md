@@ -1,7 +1,7 @@
 # wechat-cellitem
 
 > 仿照微信左滑删除的demo，按钮可以缩放，并不是简单的隐藏起来
-1. 本demo教程：[vue + flex布局完美实现微信左滑删除]https://blog.csdn.net/yasha97/article/details/84563428)
+1. 本demo教程：[vue + flex布局完美实现微信左滑删除](https://blog.csdn.net/yasha97/article/details/84563428)
 2. 在线演示：[请点击这里](https://yashaha.github.io/wechat-cellitem/index.html)
 
 ## Build Setup
